@@ -1,0 +1,15 @@
+1. GET/POST/UPDATE
+    To get all about content
+    http://127.0.0.1:8000/about/api/about/
+
+2. GET/POST/UPDATE
+    To get all skills list
+    http://127.0.0.1:8000/about/api/myskills/
+
+3. GET/POST/UPDATE
+    To get all project potfolio contents
+    http://127.0.0.1:8000/about/api/myproject/
+
+4. GET/POST/UPDATE
+    To get the resume
+    http://127.0.0.1:8000/about/api/resume/
